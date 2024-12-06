@@ -1,0 +1,5 @@
+--- test_pipe1.out	2024-03-09 18:49:25
++++ test_pipe1.in	2024-03-09 18:52:13
+@@ -0,0 +1,2 @@
++read 3 points
++This is not a triangle

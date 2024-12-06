@@ -1,0 +1,8 @@
+--- test_searcher2.out	2024-03-09 17:25:15
++++ test_searcher2.in	2024-03-10 16:02:22
+@@ -1,4 +1,2 @@
+-read 2 points
+-2.00, 3.50
+--1.00, 5.00
++read 0 points
+ This is not a triangle
